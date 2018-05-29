@@ -1,3 +1,2 @@
-# bapel.github.io
-We are what we choose
+# bapel
 Hello World
