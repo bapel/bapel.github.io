@@ -5,8 +5,8 @@ permalink: /d3dtut/
 ---
 
 List of tutorials:
-1. [00-HelloWorld](#)
-2. [01-HelloWindow](#)
-3. [02-HelloColor](#)
-4. [03-HelloTriangle](#)
-5. [04-HelloCube](#)
+1. [HelloWorld]({{ site.baseurl }}/Hello-World)
+2. [HelloWindow]({{ site.baseurl }}/Hello-Window)
+3. [HelloColor]({{ site.baseurl }}/Hello-Color)
+4. [HelloTriangle]({{ site.baseurl }}/Hello-Triangle)
+5. [HelloCube]({{ site.baseurl }}/Hello-Cube)
