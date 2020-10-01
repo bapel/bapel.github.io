@@ -10,27 +10,27 @@ I am a passionate Game Developer that loves games and the technical challenges i
 
 ### Contract/Collaborations
 
-- **[QYJO](https://qyjo.in/):** Developed and programmed a method to generate [random paths](https://medium.com/@1basudevpatel/random-paths-in-gamedev-beatdown-a913a1d8c5e6) for [Gamedev Beatdown](https://store.steampowered.com/app/1100300/Gamedev_Beatdown/).
+- **[QYJO](https://qyjo.in/) (Unity/C#):** Developed and programmed a method to generate [random paths](https://medium.com/@1basudevpatel/random-paths-in-gamedev-beatdown-a913a1d8c5e6) for [Gamedev Beatdown](https://store.steampowered.com/app/1100300/Gamedev_Beatdown/).
 
-- **An internal web-service for a local consulting company:** Hosted on AWS, used a serverless backend for APIs and a static-site created using Vue and hosted on s3.
+- **Internal tool for a local consulting company (AWS/Vue-JS):** Hosted on AWS, used a serverless backend for APIs and a static-site created using Vue and hosted on s3.
 
 ### Personal Projects
 
-#### Experiments in high-performance game programming in C++
+#### Experiments in high-performance game programming (C++)
 
 - Implemented [core match-3 logic as a study in Data-Oriented design](https://github.com/bapel/CodeSomeGames), and to serve as a test-bed for experiments, optimizations and tuning
-- Experiments in replacing a subset of the the std C++ library containers and features, primarily to meet the goal of higher performance in debuggable builds
-- Research and development of faster hash-set/maps with the goal of replacing `std::unordered_set`, `eastl::hash_set` and friends
+- Experiments in replacing a subset of the the `std::` library containers and features, primarily to meet the goal of higher performance in debuggable builds
+- Investigation and implementation of faster set/map data-structures with the goal of replacing `std::unordered_set`, `eastl::hash_set` and friends
 
-#### Indie city-building game in Unity (unfinished)
+#### Untitled indie city-building game (Unity/C# - unfinished)
 
-- Experiments in procedural generation of large aesthetic land-masses in Unity
-- Developed faster methods for generating millions of [poisson disks](https://medium.com/@1basudevpatel/faster-poisson-sampling-a76cb9a99825)
-- Implemented algorithms for producing terrain features from a delaunay triangulation of the generated points
+- Experiments in procedural generation of large aesthetic land-masses, like in anno
+- Developed faster methods for generating millions of [poisson sampled disks](https://medium.com/@1basudevpatel/faster-poisson-sampling-a76cb9a99825)
+- Implemented algorithms for producing terrain features using a delaunay triangulation of the generated points
 - Implemented a performant debug-renderer to visualize millions of points and lines within the Unity editor
-- Experiments in using Unity-DOTS for generation, simulation and rendering of teh game-world
+- Experiments in using Unity-DOTS for generation, simulation and rendering of the game-world
 
-## Nov 2016 - Oct 2018, Senior Software Engineer at Zynga
+## Nov 2016 - Oct 2018, Senior Software Engineer at Zynga (Unity/C#)
 
 Worked on features and performance-optimizations for a 3d mobile RTS called [Empires and Allies](https://www.youtube.com/watch?v=XT-J99zNf_w).
 
