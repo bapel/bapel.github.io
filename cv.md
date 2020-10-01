@@ -18,7 +18,7 @@ I am a passionate Game Developer that loves games and the technical challenges i
 
 #### Experiments in high-performance game programming (C++)
 
-- Implemented [core match-3 logic as a study in Data-Oriented design](https://github.com/bapel/CodeSomeGames), and to serve as a test-bed for experiments, optimizations and tuning
+- Implemented [core match-3 logic as a study in Data-Oriented design](https://github.com/bapel/CodeSomeGames/tree/match3/Match3), and to serve as a test-bed for experiments, optimizations and tuning
 - Experiments in replacing a subset of the the `std::` library containers and features, primarily to meet the goal of higher performance in debuggable builds
 - Investigation and implementation of faster set/map data-structures with the goal of replacing `std::unordered_set`, `eastl::hash_set` and friends
 
