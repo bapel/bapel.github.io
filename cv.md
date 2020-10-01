@@ -44,13 +44,13 @@ Worked on features and performance-optimizations for a 3d mobile RTS called [Emp
 Worked as an individual contributor on multiple projects. Work included implementing gameplay features and some specialized technical work.
 
 - **Tetris Blitz (C++):** Short tenure working on improvements to load times
-- **Monopoly Slots (Unity/C#):** Earlier an Adobe AIR client that was ported to Unity. Halved load-times and improved frame-rate on the Unity SKU. Load times were halved by moving all XML assets to Google's FlatBuffer. The transition was accomplished bugfree using a tool I wrote that parsed all xml assets and figured out their schema and generated code for xml-to-FlatBuffer-to-runtime and other variations automagically.
-- **Monopoly Bingo (Unity/C#), Theme Park (C++), Sims Social (Adobe AIR/Flasg):** Gameplay Programmer
+- **Monopoly Slots (Unity/C#):** Earlier an Adobe AIR client that was ported to Unity. Halved load-times and improved frame-rate on the Unity SKU. Load times were halved by moving all XML assets to Google's FlatBuffer. The transition was accomplished bug-free using a tool I wrote that parsed all xml assets and figured out their schema and generated code for xml-to-FlatBuffer-to-runtime and other variations automagically
+- **Monopoly Bingo (Unity/C#), Theme Park (C++), Sims Social (Adobe AIR/Flash):** Gameplay Programmer
 
 ## Other experience
 
 - **Jan 2012 - Sep 2012, Contract Work (Cocos2d/C++):** Mobile game
-- **Aug 2010 - Jan 2012, RZ2 Games (PHP/Android):** Full-stack engineer on a sporta betting site
+- **Aug 2010 - Jan 2012, RZ2 Games (PHP/Android):** Full-stack engineer on a sports betting site
 - **Feb 2010 - Aug 2010, Lecturer at ICAT:** Taught a course in math for games and, a course in graphics porgramming using Direct3D 9.0c
 
 ## Education
