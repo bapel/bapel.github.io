@@ -39,7 +39,7 @@ Worked on features and performance-optimizations for a 3d mobile RTS called [Emp
 - Proposed and worked with team-mates on multiple performance optimizations to reduce memory-usage and improve frame-rates across devices
 - Proposed and implemented a tool for artists to streamline recording in game footage for trailers 
 
-## Sep 2012 - Nov 2016, Software Engineer II at Electronic Arts (EA)
+## Sep 2012 - Nov 2016, Software Engineer II at Electronic Arts Pvt. Ltd.
 
 Worked as an individual contributor on multiple projects. Work included implementing gameplay features and some specialized technical work.
 
