@@ -18,7 +18,7 @@ I am a passionate Game Developer that loves games and the technical challenges i
 
 #### Experiments in high-performance game programming (C++)
 
-- Implemented [core match-3 logic as a study in Data-Oriented design](https://github.com/bapel/CodeSomeGames/tree/match3/Match3), and to serve as a test-bed for experiments, optimizations and tuning
+- Implemented [core match-3 logic](https://github.com/bapel/CodeSomeGames/tree/match3/Match3) as a study in Data-Oriented design, and to serve as a test-bed for experiments, optimizations and tuning
 - Ongoing experiments in replacing a subset of the the `std::` library containers and features, primarily to meet the goal of higher performance and simplicity
 - Investigation and implementation of faster set/map data-structures with the goal of replacing `std::unordered_set`, `eastl::hash_set` and friends
 
@@ -39,7 +39,7 @@ Worked on gameplay features and performance-optimizations for a 3d mobile strate
 - Proposed and worked with team-mates on multiple performance optimizations to reduce memory-usage and improve frame-rates across devices
 - Proposed and implemented a tool for artists to streamline recording in game footage for trailers 
 
-## Sep 2012 - Nov 2016, Software Engineer II at Electronic Arts Pvt. Ltd.
+## Sep 2012 - Nov 2016, Software Engineer II at Electronic Arts (C++, Unity/C#, Adobe Flash)
 
 Worked as an individual contributor on multiple projects. Work included implementing gameplay features and some specialized technical work.
 
