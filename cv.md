@@ -43,7 +43,7 @@ Worked on features and performance-optimizations for a 3d mobile RTS called [Emp
 
 Worked as an individual contributor on multiple projects. Work included implementing gameplay features and some specialized technical work.
 
-- **Tetris Blitz (C++):** Very short tenure working on improvements to load times, by separating http requests that are not critical to game launch to a separate queue
+- **Tetris Blitz (C++):** Short tenure working on improvements to load times
 - **Monopoly Slots (Unity/C#):** Earlier an Adobe AIR client that was ported to Unity. Halved load-times and improved frame-rate on the Unity SKU. Load times were halved by moving all XML assets to Google's FlatBuffer. The transition was accomplished bugfree using a tool I wrote that parsed all xml assets and figured out their schema and generated code for xml-to-FlatBuffer-to-runtime and other variations automagically.
 - **Monopoly Bingo (Unity/C#), Theme Park (C++), Sims Social (Adobe AIR/Flasg):** Gameplay Programmer
 
