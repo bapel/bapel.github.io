@@ -12,7 +12,7 @@ description: I use algorithms to build fun things that run fast
 avatar: https://avatars1.githubusercontent.com/u/27846410?s=460&u=cf092a98fec56be4672e321a77946ef619ef4781&v=4
 
 # Theme to use
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 #
 # Flags below are optional
