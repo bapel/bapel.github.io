@@ -51,7 +51,7 @@ Worked as an individual contributor on multiple projects. Work included implemen
 
 - **Jan 2012 - Sep 2012, Contract Work (Cocos2d/C++):** Mobile game
 - **Aug 2010 - Jan 2012, RZ2 Games (PHP/Android):** Full-stack engineer on a sports betting site
-- **Feb 2010 - Aug 2010, Lecturer at ICAT:** Taught a course in math for games and, a course in graphics porgramming using Direct3D 9.0c
+- **Feb 2010 - Aug 2010, Lecturer at ICAT:** Taught a course in math for games and a course in graphics porgramming using Direct3D 9.0c
 
 ## Education
 
