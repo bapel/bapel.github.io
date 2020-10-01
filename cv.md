@@ -19,10 +19,10 @@ I am a passionate Game Developer that loves games and the technical challenges i
 #### Experiments in high-performance game programming (C++)
 
 - Implemented [core match-3 logic as a study in Data-Oriented design](https://github.com/bapel/CodeSomeGames/tree/match3/Match3), and to serve as a test-bed for experiments, optimizations and tuning
-- Experiments in replacing a subset of the the `std::` library containers and features, primarily to meet the goal of higher performance in debuggable builds
+- Ongoing experiments in replacing a subset of the the `std::` library containers and features, primarily to meet the goal of higher performance and simplicity
 - Investigation and implementation of faster set/map data-structures with the goal of replacing `std::unordered_set`, `eastl::hash_set` and friends
 
-#### Untitled indie city-building game (Unity/C# - unfinished)
+#### Untitled indie city-building game (Unity/C# - Ongoing)
 
 - Experiments in procedural generation of large aesthetic land-masses, like in anno
 - Developed faster methods for generating millions of [poisson sampled disks](https://medium.com/@1basudevpatel/faster-poisson-sampling-a76cb9a99825)
