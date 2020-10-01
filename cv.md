@@ -32,7 +32,7 @@ I am a passionate Game Developer that loves games and the technical challenges i
 
 ## Nov 2016 - Oct 2018, Senior Software Engineer at Zynga (Unity/C#)
 
-Worked on features and performance-optimizations for a 3d mobile RTS called [Empires and Allies](https://www.youtube.com/watch?v=XT-J99zNf_w).
+Worked on features and performance-optimizations for a 3d mobile strategy game called [Empires and Allies](https://www.youtube.com/watch?v=XT-J99zNf_w).
 
 - Implemented AI, Effects and Logic for many units
 - Revamped the UI sub-system to support the iPhone-x and other notched screens
