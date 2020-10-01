@@ -7,39 +7,42 @@ permalink: /cv/
 I am a passionate Game Developer that loves games and the technical challenges involved in building them. I have more than a decade's worth of experience as a programmer working on games, having worked on a wide array of products that include: free-to-play mobile titles with large DAUs to games running on mall kiosks, and even a sports betting website.
 
 ## Oct 2018 - Present, Freelance
+Worked on personal projects, freelance projects and collaborations
 
-### Contract/Collaborations
-
-- **[QYJO](https://qyjo.in/) (Unity/C#):** Developed and programmed a method to generate [random paths](https://medium.com/@1basudevpatel/random-paths-in-gamedev-beatdown-a913a1d8c5e6) for [Gamedev Beatdown](https://store.steampowered.com/app/1100300/Gamedev_Beatdown/).
+- **Collaborated with [QYJO](https://qyjo.in/) (Unity/C#):** Developed and programmed a method to generate [random paths](https://medium.com/@1basudevpatel/random-paths-in-gamedev-beatdown-a913a1d8c5e6) for [Gamedev Beatdown](https://store.steampowered.com/app/1100300/Gamedev_Beatdown/).
 
 - **Internal tool for a local consulting company (AWS/Vue-JS):** Hosted on AWS, used a serverless backend for APIs and a static-site created using Vue and hosted on s3.
 
-### Personal Projects
+### Self Study (C++)
 
-#### Experiments in high-performance game programming (C++)
+Experiments in high-performance game programming using C++ inspired by Unity-DOTS
 
 - Implemented [core match-3 logic](https://github.com/bapel/CodeSomeGames/tree/match3/Match3) as a study in Data-Oriented design, and to serve as a test-bed for experiments, optimizations and tuning
 - Ongoing experiments in replacing a subset of the the `std::` library containers and features, primarily to meet the goal of higher performance and simplicity
 - Investigation and implementation of faster set/map data-structures with the goal of replacing `std::unordered_set`, `eastl::hash_set` and friends
 
-#### Untitled indie city-building game (Unity/C# - Ongoing)
+### Untitled project (Unity/C# - Ongoing)
 
-- Experiments in procedural generation of large aesthetic land-masses, like in anno
+My indie building/management-sim game inspired by Factorio and ANNO
+
+- Experiments in procedural generation of large island-like land masses
 - Developed faster methods for generating millions of [poisson sampled disks](https://medium.com/@1basudevpatel/faster-poisson-sampling-a76cb9a99825)
 - Implemented algorithms for producing terrain features using a delaunay triangulation of the generated points
 - Implemented a performant debug-renderer to visualize millions of points and lines within the Unity editor
 - Experiments in using Unity-DOTS for generation, simulation and rendering of the game-world
 
-## Nov 2016 - Oct 2018, Senior Software Engineer at Zynga (Unity/C#)
+## Nov 2016 - Oct 2018
+Senior Software Engineer at Zynga (Unity/C#)
 
 Worked on gameplay features and performance-optimizations for a 3d mobile strategy game called [Empires and Allies](https://www.youtube.com/watch?v=XT-J99zNf_w).
 
-- Implemented AI, Effects and Logic for many units
-- Revamped the UI sub-system to support the iPhone-x and other notched screens
+- Implemented AI, Effects and Logic for many game units
+- Revamped the UI sub-system to support the iPhone-x and other notched screens. And educating other team-members on changes in UI-workflow goinf forward
 - Proposed and worked with team-mates on multiple performance optimizations to reduce memory-usage and improve frame-rates across devices
-- Proposed and implemented a tool for artists to streamline recording in game footage for trailers 
+- Proposed and implemented a tool for artists to streamline recording in-game footage for trailers
 
-## Sep 2012 - Nov 2016, Software Engineer II at Electronic Arts (C++, Unity/C#, Adobe Flash)
+## Sep 2012 - Nov 2016
+Software Engineer II at Electronic Arts (C++, Unity/C#, Adobe Flash)
 
 Worked as an individual contributor on multiple projects. Work included implementing gameplay features and some specialized technical work.
 
